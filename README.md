@@ -1,2 +1,4 @@
-# changelog
-Public Changelog for Xenith Network.
+# Global Network Changelog.
+
+
+This changelog is for any changes we make.
